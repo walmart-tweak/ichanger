@@ -1,0 +1,9 @@
+Package: com.mins.iChanger
+Name: iChanger
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0), com.conradkramer.open, com.autopear.installipa, com.rbt.useragentchanger, com.yourepo.mins.locationfaker8910
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: iChanger - Make advertiser feeling bads about the iOS device info. 
+Maintainer: Mins 
+Author: Mins 
+Section: Tweaks
